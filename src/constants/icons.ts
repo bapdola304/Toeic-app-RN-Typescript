@@ -25,6 +25,12 @@ export const sushi = require("../assets/icons/sushi.png");
 export const user = require("../assets/icons/user.png");
 export const home = require("../assets/icons/home.png");
 export const playButton = require("../assets/icons/play-button.png");
+export const chevron = require("../assets/icons/chevron.png");
+export const pauseButton = require("../assets/icons/pause.png");
+export const jumpLeft = require("../assets/icons/play-jump-left.png");
+export const jumpRight = require("../assets/icons/play-jump-right.png");
+export const translate = require("../assets/icons/translate.png");
+export const spinner = require("../assets/icons/spinner.gif");
 
 export default {
     back,
@@ -53,5 +59,11 @@ export default {
     sushi,
     user,
     home,
-    playButton
+    playButton,
+    chevron,
+    pauseButton,
+    jumpLeft,
+    jumpRight,
+    translate,
+    spinner
 }

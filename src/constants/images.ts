@@ -29,6 +29,11 @@ const sushi = require("../assets/images/sushi.jpg");
 const teh_c_peng = require("../assets/images/teh-c-peng.jpg");
 const tomato_pasta = require("../assets/images/tomato-pasta.jpg");
 
+const part1 = require("../assets/images/part1.jpg");
+const part2 = require("../assets/images/part2.jpg");
+const part3 = require("../assets/images/part3.png");
+const part4 = require("../assets/images/part4.png");
+
 export default {
     avatar_1,
     avatar_2,
@@ -60,4 +65,9 @@ export default {
     sushi,
     teh_c_peng,
     tomato_pasta,
+
+    part1,
+    part2,
+    part3,
+    part4
 }
